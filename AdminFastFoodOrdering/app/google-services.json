@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513866773241",
+    "project_id": "fast-food-ordering-2f49d",
+    "storage_bucket": "fast-food-ordering-2f49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513866773241:android:90e8204cc95708fc3aa828",
+        "android_client_info": {
+          "package_name": "com.example.adminfastfoodordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_L1mi96t2QXLUJTVcpgoAIJIxWovW5OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
